@@ -1,3 +1,5 @@
+![](./polarpandas_github_repo_qr.png)
+
 # Get started:
 
 After cloning, and with python 3.12 installed, run this

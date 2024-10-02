@@ -9,8 +9,6 @@ paginate: true
 
 ![w:300 h:300](../polarpandas_github_repo_qr.png)
 
-![bg right:40% 80%](./imgs/duelbear.png)
-
 ---
 
 # Welcome to the Data Jungle! 🌴📊
@@ -20,7 +18,7 @@ paginate: true
 - Master dataframe operations
 - Discover the speed of Polars
 
-![bg right:40% 80%](./imgs/python_exploring.png)
+![bg right:40% 80%](./imgs/duelbear.png)
 
 ---
 
@@ -45,7 +43,7 @@ print(df)
 
 # Pandas: The Versatile Dataframe 🐼
 
-![w:300 h:200](./imgs/python_terminal.png)
+![w:300 h:200](https://api.placeholder.com/300x200?text=Pandas+Logo)
 
 - Python's popular library for data manipulation
 - Great for exploration and data preprocessing
@@ -116,7 +114,7 @@ print(f"Pandas groupby operation time: {pandas_time:.4f} seconds")
 
 # Enter Polars: The Speed Demon 🐻‍❄️💨
 
-![w:300 h:200](./imgs/polarfast.png)
+![w:300 h:200](https://api.placeholder.com/300x200?text=Polars+Logo)
 
 - Rust-powered DataFrame library for Python
 - Designed for performance and memory efficiency
@@ -206,7 +204,7 @@ plt.xlabel("Time (seconds)")
 plt.show()
 ```
 
-![bg right:40% 80%](./imgs/snakeartist.png)
+![bg right:40% 80%](https://api.placeholder.com/400x300?text=Performance+Chart)
 
 ---
 
@@ -259,7 +257,8 @@ result_pandas = result.to_pandas()
 - Leverage Polars for high-performance operations
 - Stay curious and keep exploring new data tools
 
-![bg right:40% 80%](./imgs/pandapolar.png)
+![bg right:40% 80%](https://api.placeholder.com/400x300?text=Pandas+and+Polars)
+
 ---
 
 # Thank You! 🙏
@@ -267,4 +266,4 @@ result_pandas = result.to_pandas()
 Questions?
 Time to crunch some numbers! 💻📊
 
-![bg right:40% 80%](./imgs/pandapolar.png)
+![w:300 h:300](https://api.placeholder.com/300x300?text=Thank+You)

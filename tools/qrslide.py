@@ -1,8 +1,8 @@
 import qrcode
 
-data = "https://github.com/octaflop/cyberpython"
+data = "https://github.com/octaflop/polarpandas"
 
 img = qrcode.make(data)
 
-img.save("cyberpython_github_repo_qr.png")
+img.save("polarpandas_github_repo_qr.png")
 
